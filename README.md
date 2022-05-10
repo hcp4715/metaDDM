@@ -3,7 +3,7 @@ Drift-diffusion models (DDMs) or Evidence accumulation models (EAMs) are widely 
 
 This project was generated after seeing the usefullness of the [hddm docker image](https://hub.docker.com/r/hcp4715/hddm), which aimed at increase the computational reprodocubility of analyses based on HDDM. Only after reading a lot papers, I realized the chaotic status of the modelling field. The humble goal of this project is to create a more general tool (That's why I choose HDDM at the very beginning, it's widely used). 
 
-There are three sub-goals of metaDDM: (1) provide a hitchhiker's guide to the chaotic world of DDM/EAM/SSM; (2) provide an all-in-one docker image for DDM related python packages, and maybe other packages, such `r` packages, in thie docker image or as a separate image in the future; (3) provide some workflow like recommmendations for using DDM.
+There are three sub-goals of metaDDM: (1) provide a hitchhiker's guide to the chaotic world of DDM/EAM/SSM; (2) provide an all-in-one docker image for DDM related python packages, and maybe other packages, such `r` packages, in thie docker image or as a separate image in the future; (3) provide some workflow like recommmendations for using DDM. Thus this repo might be developed into three repos, depends on whether we have enough people in the future.
 
 This project has just started. If you are interested in this project, please feel free to email me and jump in. My email address is: hcp4715 AT hotmail dot com.
 
